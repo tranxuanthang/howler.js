@@ -1,6 +1,6 @@
 {
   "name": "howler",
-  "version": "3.0.0@alpha.0",
+  "version": "3.0.0-alpha.0",
   "description": "Javascript audio library for the modern web.",
   "homepage": "https://howlerjs.com",
   "keywords": [
@@ -34,7 +34,7 @@
     "vite": "^2.5.10"
   },
   "type": "module",
-  "main": "dist/howler.js",
+  "main": "dist/core.js",
   "license": "MIT",
   "files": [
     "dist/howler.js",
